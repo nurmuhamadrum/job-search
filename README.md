@@ -44,7 +44,7 @@ After npm install proccess is done then run the Web Application.
 npm run start
 ```
 
-Wait till the web application is running in your browser on this http://localhost:3000.
+Wait till the web application is running in your browser on this http://localhost:3000. Now, you can explore the Web Application and its features. Enjoy!
 
 ## Screenshots
 
