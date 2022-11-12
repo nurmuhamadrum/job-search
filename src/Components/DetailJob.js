@@ -17,8 +17,8 @@ export default function DetailJob(data) {
                <Text>{dataDetail.location}</Text>
                <Divider margin={'20px 0px 20px 0px'} />
                <Box boxSize='sm'>
-                  {/* <Image src={dataDetail.company_logo} alt='dans' /> */}
-                  <Image src='https://bit.ly/dan-abramov' alt='dans' />
+                  <Image src={dataDetail.company_logo} alt='dans' /> {/** The Image url is not valid */}
+                  {/* <Image src='https://bit.ly/dan-abramov' alt='dans' /> */}
                </Box>
                <Text>{dataDetail.description}</Text>
             </Box>
