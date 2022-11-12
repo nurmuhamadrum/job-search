@@ -48,11 +48,11 @@ Wait till the web application is running in your browser on this http://localhos
 
 ## Screenshots
 
-<img src="docs/screenshot/image-1.png" width="80%" />
-<img src="docs/screenshot/image-2.png" width="80%" />
-<img src="docs/screenshot/image-3.png" width="80%" />
-<img src="docs/screenshot/image-4.png" width="80%" />
-<img src="docs/screenshot/image-5.png" width="80%" />
+<img src="docs/screenshots/image-1.png" width="80%" />
+<img src="docs/screenshots/image-2.png" width="80%" />
+<img src="docs/screenshots/image-3.png" width="80%" />
+<img src="docs/screenshots/image-4.png" width="80%" />
+<img src="docs/screenshots/image-5.png" width="80%" />
 
 ## Built With
 
