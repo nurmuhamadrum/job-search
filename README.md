@@ -29,7 +29,7 @@ Make sure all of these are properly installed in your system.
 First, clone this repository into your system.
 
 ```
-git clone https://github.com/nurmuhamadrum/job-search.git
+git clone https://github.com/nurmuhamadrum/react-job-search.git
 ```
 
 Then, install all the packages that described in `package.json`.
