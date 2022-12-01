@@ -1,4 +1,4 @@
-# Frontend Developer Assignment Test | Job Search
+# Frontend Developer Assignment | Job Search
 
 ## Table of Contents
 
